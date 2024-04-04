@@ -1,4 +1,4 @@
-# Search classNames
+# Search tags
 
 Search in your code by a combination of className.
 
