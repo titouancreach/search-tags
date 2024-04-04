@@ -64,10 +64,12 @@ function checkTokens(tokens: Token[]): E.Either<string, Token[]> {
 }
 
 export function activate(context: vscode.ExtensionContext) {
-  console.log('Congratulations, your extension "emmetsearcher" is now active!');
+  console.log(
+    'Congratulations, your extension "search-tags.search" is now active!'
+  );
 
   let disposable = vscode.commands.registerCommand(
-    "emmetsearcher.search",
+    "search-tags.search",
     async () => {
       const emmetAbbr = await vscode.window.showInputBox({
         title: "Search",

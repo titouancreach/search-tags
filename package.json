@@ -1,7 +1,7 @@
 {
-  "name": "emmetsearcher",
-  "displayName": "emmetsearcher",
-  "description": "Search through code using Emmet abbreviations.",
+  "name": "search-tags",
+  "displayName": "search-tags",
+  "description": "Search tags  using Emmet abbreviations.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "emmetsearcher.search",
-        "title": "Search"
+        "command": "search-tags.search",
+        "title": "Search tags using Emmet abbreviations"
       }
     ]
   },

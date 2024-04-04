@@ -26,7 +26,7 @@ This is what this plugin is made for.
 
 2. Select the "Search" command.
 
-3. Input an emmet abbreviation.
+3. Input an Emmet abbreviation.
 
 > [!WARNING]  
 > For this version, only a very light subset is supported. Only classes (ex: ".flex.flex-grow.gap-2") are supported.  
@@ -37,7 +37,7 @@ This is what this plugin is made for.
 5. Open the search panel, make sure your have checked the "regex" checkbox, and past the content of your clipboard.
 
 ## Future
-- Support emmet abbrevitation with a tag (ex: `span.bg-red-500.flex` )
+- Support Emmet abbrevitation with a tag (ex: `span.bg-red-500.flex` )
 - Support ids (ex: `.bg-red#foo`)
 - Support multilines
 - Support [twc](https://github.com/gregberge/twc)
