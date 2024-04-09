@@ -1,6 +1,7 @@
 # Search for tags
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/TitouanCREACH.search-tags)
+[Extension link](https://marketplace.visualstudio.com/items?itemName=TitouanCREACH.search-tags)
 
 Search in your code by input an emmet abbreviation.
 
