@@ -2,6 +2,9 @@
 
 Search in your code by input an emmet abbreviation.
 
+<img src="https://github.com/titouancreach/search-tags/assets/3995719/a55cf926-3b6f-4fb3-9a07-a726da68c99c" style="width: 150px; height: 150px" />
+
+
 ## Why
 
 This is very common to want to search an element with multiple classNames whatever they are ordered.
