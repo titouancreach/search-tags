@@ -1,7 +1,8 @@
 {
   "name": "search-tags",
   "displayName": "search-tags",
-  "description": "Search tags  using Emmet abbreviations.",
+  "description": "Search for tags using Emmet abbreviations.",
+  "icon": "logo/logo128.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
