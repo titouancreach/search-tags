@@ -3,7 +3,9 @@
   "displayName": "search-tags",
   "description": "Search for tags using Emmet abbreviations.",
   "icon": "logo/logo128.png",
+  "repository": "https://github.com/titouancreach/search-tags",
   "version": "0.0.1",
+  "publisher": "TitouanCREACH",
   "engines": {
     "vscode": "^1.87.0"
   },

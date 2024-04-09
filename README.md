@@ -1,7 +1,5 @@
 # Search for tags
 
-<img src="./logo/logo.jpg" style="width: 150px; height: 150px" />
-
 Search in your code by input an emmet abbreviation.
 
 ## Why
